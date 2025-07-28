@@ -1,1 +1,1 @@
-# Diamond-Price-Prediction-Using-Linear-Regression
+Diamond Price Prediction Using Linear Regression: Built a predictive model using Python (Pandas, Scikit-Learn) to estimate diamond prices, achieving an R² of 92%; identified carat weight as the most influential factor (coef: 11,540). Visualized key pricing factors and trends using Tableau.
